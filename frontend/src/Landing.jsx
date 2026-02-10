@@ -152,7 +152,7 @@ export default function Landing() {
       {/* Footer */}
       <footer className="footer bg-dark text-white text-center py-3">
         <p className="mb-0">
-          © 2025 Stock Broker Client Dashboard | College Mini Project
+          © 2025 Stock Broker Client Dashboard 
         </p>
       </footer>
 
